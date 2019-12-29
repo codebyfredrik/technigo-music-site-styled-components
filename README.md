@@ -1,19 +1,23 @@
-# Technigo React Starter App
+# Project 9 - Music site
 
-This app has been generated using `create-react-app`, then cleaned up a little so we have a project with just the elements we need to get started.
+### Summary
 
-Add components in the `src` folder and use them in `src/app.js` to get started.
+A music site created with React to display new album and single releases on Spotify.
 
-## Usage
+### Technologies used
 
-1. On GitHub, click the 'use this template' button to create a new repo on your account
-1. Clone the new repo to your computer
-1. Install required dependencies with npm: `npm install`
-1. Start the project: `npm start`
+- HTML
+- CSS
+- Javascript
+- React
 
-Alternatively, if you don't want a new git repo on your account;
+### Learning objectives
 
-1. Download & extract the [latest release](https://github.com/Technigo/react-starter/releases/latest) from GitHub
-1. Open the directory in the terminal: `cd /path/to/react-starter`
-1. Install required dependencies with npm: `npm install`
-1. Start the project: `npm start`
+- How to write React components
+- How to use `.map` to iterate over an array of data and mount many components
+- How to use React props to feed information to components
+- How to structure React projects into small chunks
+
+### Where can you see it in action?
+
+URL to live site: https://wonderful-hugle-e0f3dc.netlify.com/
