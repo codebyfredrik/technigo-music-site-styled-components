@@ -6,10 +6,11 @@ A music site created with React to display new album and single releases on Spot
 
 ### Technologies used
 
-- HTML
-- CSS
 - Javascript
 - React
+- CSS
+- Styled Components
+- HTML
 
 ### Learning objectives
 
