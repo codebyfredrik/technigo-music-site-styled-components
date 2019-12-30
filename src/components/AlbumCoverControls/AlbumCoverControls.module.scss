@@ -1,0 +1,10 @@
+.albumCoverControls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.albumCoverControls > div {
+  display: inline-block;
+  margin: 15px;
+}

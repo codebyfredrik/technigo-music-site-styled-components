@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-// import { AlbumCoverControls } from './../AlbumCoverControls/AlbumCoverControls';
+import { AlbumCoverControls } from './../AlbumCoverControls/AlbumCoverControls';
 import { Artist } from './../Artist/Artist';
 
 const StyledAlbum = styled.div`
@@ -67,7 +67,7 @@ export const Album = ({ album }) => {
       <AlbumCover>
         <AlbumCoverImage src={album.images[0].url} alt="Album cover" />
         <Overlay>
-          {/* <AlbumCoverControls playUrl={album.external_urls.spotify} /> */}
+          <AlbumCoverControls playUrl={album.external_urls.spotify} />
         </Overlay>
       </AlbumCover>
       <AlbumInfo>
