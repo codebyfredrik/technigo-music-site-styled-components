@@ -12,7 +12,7 @@ Before I started to code I divided the UI into smaller UI elements to get an men
 
 When it comes to styling of the project I decided to use Styled Components for a couple of reasons:
 
-- Generates unique class names for styles
+- Generates unique class names for styles and prevents styling conflicts
 - Dynamic styling is possible with properties or a global theme
 - Automatic vendor prefixing
 
