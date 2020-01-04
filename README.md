@@ -10,7 +10,7 @@ In this project I was tasked to replicate a view in the Spotify application that
 
 Before I started to code I divided the UI into smaller UI elements to get an mental idea of what kind of React components I would need for the project.
 
-When it comes to styling of the project I decided to use Styled components for a couple of reasons:
+When it comes to styling of the project I decided to use Styled Components for a couple of reasons:
 
 - Generates unique class names for styles
 - Dynamic styling is possible with properties or a global theme
@@ -21,7 +21,7 @@ When it comes to styling of the project I decided to use Styled components for a
 - Javascript
 - React
 - CSS
-- Styled components
+- Styled Components
 - HTML
 
 ### Learning objectives
