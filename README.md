@@ -21,7 +21,7 @@ When it comes to styling of the project I decided to use Styled components for a
 - Javascript
 - React
 - CSS
-- Styled Components
+- Styled components
 - HTML
 
 ### Learning objectives
