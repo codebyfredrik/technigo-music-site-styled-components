@@ -6,7 +6,7 @@ A music site created with React to display new album and single releases on Spot
 
 ### Implementation details
 
-In this project I created an application that display new album and single releases on Spotify. For this particular design I decided to use CSS grid to get the layout and responsiveness done in the right way.
+In this project I created a site that displays new album and single releases on Spotify. For this particular design I decided to use CSS grid to get the layout and responsiveness done in the right way.
 
 Before I started to code I divided the UI into smaller UI elements to get an mental idea of what kind of React components I would need for the project.
 
