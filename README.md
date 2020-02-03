@@ -1,4 +1,4 @@
-# Music site
+# Music site with React
 
 ### Summary
 
